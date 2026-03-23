@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # display the record type and the adress where it points to, for a given domain and subdomain
 
-#!/usr/bin/env bash
-# shellcheck disable=SC2086
+
 
 domain=$1
 subdomain=$2
